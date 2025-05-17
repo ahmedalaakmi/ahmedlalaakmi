@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Hossam Taha 
+# 👋 Hi, I'm Ahmed Elamir
 
-**Data Scientist | Data Analyst**  
+**Data Scientist | machine learning**  
 📍 Mansoura, Egypt  
 
 [![LinkedIn](https://img.shields.io/badge/-Hossam_Taha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hossam-taha-41b724288)
@@ -100,7 +100,7 @@ From data collection → cleaning → analysis → deployment:
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Hossam Taha](https://linkedin.com/in/hossam-taha-41b724288)  
+- LinkedIn: [Ahmed alamir](https://linkedin.com/in/ahmed-elamir-41b724288)  
 - Email: [hossamelsrah5@gmail.com](mailto:hossamelsrah5@gmail.com)  
 - WhatsApp: [01226744231]  
 - Availability: Open for consulting and data strategy discussions  
